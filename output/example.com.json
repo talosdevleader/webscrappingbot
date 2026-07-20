@@ -1,0 +1,25 @@
+{
+  "scrape_type": "generic",
+  "title": "Example Domain",
+  "h1": "Example Domain",
+  "description": "",
+  "site_name": "example.com",
+  "canonical": "https://example.com/",
+  "url": "https://example.com/",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Example Domain"
+    }
+  ],
+  "main_text": "Example Domain\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\nLearn more",
+  "links": [
+    {
+      "text": "Learn more",
+      "href": "https://iana.org/domains/example"
+    }
+  ],
+  "images": [],
+  "language": "en",
+  "exported_at": "2026-07-20 15:19:53 UTC"
+}
